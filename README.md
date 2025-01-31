@@ -1,6 +1,6 @@
 # Asier Acuña
 
-![Banner](https://source.unsplash.com/1600x400/?technology,coding)
+![Banner]([https://source.unsplash.com/1600x400/?technology,coding](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRii8bvaWeQpxtnCVQpnM33bnhm8S5XseL9wA&s))
 
 ## **finance, maths, ml in that order**
 
