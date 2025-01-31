@@ -1,7 +1,7 @@
 # Asier Acuña
 
 <p align="center">
-  ![Banner](https://media.giphy.com/media/3o6gE5Y6k9qH4GnIMQ/giphy.gif)
+  ![Banner]([https://media.giphy.com/media/3o6gE5Y6k9qH4GnIMQ/giphy.gif](https://tenor.com/es/view/quant-pepega-look-at-his-face-this-is-my-quant-big-short-gif-17792692270317357671))
 </p>
 
 ## **finance, maths, ml in that order**
