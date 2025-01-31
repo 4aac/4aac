@@ -1,9 +1,8 @@
 # Asier Acuña
 
 <p align="center">
-  ![Banner](https://media1.tenor.com/m/9uxXWaIaymcAAAAd/quant-pepega.gif)
+  <img src="https://media1.tenor.com/m/9uxXWaIaymcAAAAd/quant-pepega.gif" width="70%" />
 </p>
-
 
 ## **finance, maths, ml in that order**
 
