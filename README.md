@@ -23,12 +23,6 @@
 
 ---
 
-<p align="center">
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=tu_usuario&theme=tokyonight" />
-</p>
-
----
-
 ## **Conect with me**
 
 **Email:** [asier.acuna@rai.usc.es](mailto:asier.acuna@rai.usc.es)  
